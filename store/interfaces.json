@@ -1,0 +1,11 @@
+{
+    "greeting": {
+        "component": "Greeting"
+    },
+    "my-button": {
+        "component": "Mybutton"
+    },
+    "sub-menu-account": {
+        "component": "Myaccount"
+    }
+}
