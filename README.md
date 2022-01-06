@@ -8,7 +8,7 @@ step1
 Add "echidna.sub-menu":"0.x" in your store theme dependancies.
 
 step2
-Add "sub-menu-account" block, in page where you want to display two column layout.
+Add "sub-menu-account" block, in page where you want to display a accordion for displaying sub-menus.
 
 step3
 Declare the block with props as shown below:
